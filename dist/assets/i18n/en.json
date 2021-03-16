@@ -1,0 +1,160 @@
+{
+  "header": {
+    "profile": "Profile",
+    "logout": "Logout",
+    "discounts": "Discounts",
+    "favorites": "Favorites",
+    "notifications": "Notifications",
+    "moderator": "Moderator",
+    "admin": "Admin"
+  },
+  "moderator": {
+    "vendors": "Vendors",
+    "categories": "Categories and tags"
+  },
+  "admin": {
+    "users": "Users",
+    "history": "History",
+    "statistics": "Statistics"
+  },
+  "profile": {
+    "subscription": "Subscriptions",
+    "tag": "New tag...",
+    "newsletters": "Receive a newsletters",
+    "service": "New discounts",
+    "vendors": "New vendors",
+    "city": "On city",
+    "hot_sales": "Hot sales",
+    "color-theme": "Color theme",
+    "light-mode": "Light mode",
+    "dark-mode": "Dark mode"
+  },
+  "search": {
+    "btn_search": "Search",
+    "btn_export": "Export",
+    "input_search": "Search",
+    "tag": "Tag",
+    "category": "Category",
+    "location": "Location",
+    "vendor": "Vendor",
+    "date-search-start": "Start date",
+    "date-search-end": "End date",
+    "date-range": "Date range",
+    "select": "Select"
+  },
+  "event-history": {
+    "date": "Date",
+    "action": "Action",
+    "user": "User",
+    "description": "Description"
+  },
+  "event-notification": {
+    "date": "Date",
+    "title": "Title",
+    "message": "Message",
+    "type": "Type",
+    "read": "Read",
+    "were-read": "Read",
+    "read-all": "Read All"
+  },
+  "users": {
+    "admin": "Administrator",
+    "user": "User",
+    "moderator": "Moderator",
+    "active": "Active",
+    "inactive": "Inactive",
+    "add-profile": {
+      "save": "Save"
+    }
+  },
+  "vendors": {
+    "add": "Add vendor",
+    "edit": "Edit vendor",
+    "add-address": "Add address",
+    "add-address-modal": {
+      "country": "Country",
+      "city": "City",
+      "street": "Street"
+    },
+    "add-vendor": {
+      "info": "Vendor's info",
+      "name": "Vendor's name",
+      "address": "Address",
+      "phone": "Phone",
+      "web-site": "Web site",
+      "hours": "Open hours",
+      "inst": "Instagram",
+      "vk": "Vkontakte",
+      "fb": "Facebook",
+      "email": "E-mail",
+      "cancel": "Cancel",
+      "restore": "Restore",
+      "save": "Save",
+      "dsk": "Discounts",
+      "add-dsk": "Add discount"
+    },
+    "add-discount": {
+      "add": "Add discount",
+      "edit": "Edit discount",
+      "name": "Discount name",
+      "address": "Address",
+      "phone": "Phone",
+      "conditions": "Discount conditions",
+      "tag": "Tag",
+      "category": "Category",
+      "start": "Start date",
+      "end": "Expiration date",
+      "cancel": "Cancel",
+      "save": "Save",
+      "promo": "Promocode"
+    }
+  },
+  "categories-and-tags": {
+    "categories": "Categories",
+    "tags": "Tags",
+    "category": "Category",
+    "add": "Add",
+    "tag": "Tag"
+  },
+  "favorites": {
+    "notes": "Note",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "discounts": {
+    "address": "Address",
+    "start": "Starts at",
+    "available": "Available to",
+    "open": "Open",
+    "close": "Close",
+    "cancel": "Cancel",
+    "soon": "soon"
+  },
+  "confirmation": {
+    "delete": {
+      "message": "Are you sure you want to delete?",
+      "button-positive": "Delete",
+      "button-negative": "Cancel"
+    },
+    "change": {
+      "message": "Are you sure you want to close the pop-up? Your changes will not be saved",
+      "button-positive": "Yes",
+      "button-negative": "No"
+    }
+  },
+  "errors": {
+    "add-address-street-error": "Street should not be longer than 50 characters",
+    "add-address-country-error": "Country should not be empty",
+    "discount-note-error": "Note should not be longer than 255 characters",
+    "discount-address-error": "Address should not be empty",
+    "vendor-name-maxlength-error": "Vendor's name should not be longer than 50 characters",
+    "vendor-name-required-error": "Vendor's name should not be empty",
+    "promocode-error": "Promocode should not be longer than 50 characters",
+    "promocode-required-error": "Promocode should not be empty",
+    "conditions-error": "Conditions should not be longer than 255 characters",
+    "conditions-required-error": "Conditions should not be empty",
+    "phone-error": "Phone should contain only numbers, only one or no + and only one () or no ()",
+    "date-start-required-error": "Start date should not be empty",
+    "category-required-error": "Category should not be empty"
+  }
+}
